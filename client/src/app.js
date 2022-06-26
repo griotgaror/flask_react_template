@@ -1,5 +1,6 @@
 import React from 'react';
-import './base.css';
+
+import './app.css';
 
 export default function(props) {
     return (
